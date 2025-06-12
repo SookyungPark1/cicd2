@@ -9,6 +9,6 @@ public class HelloController {
 
     @GetMapping("/hi")
     public String hi(){
-        return "hi cicd2 github action ^^";
+        return "hi cicd2 github action ^^  하은  수경 퐈이팅 !!";
     }
 }
